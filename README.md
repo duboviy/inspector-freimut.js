@@ -1,6 +1,6 @@
-<h1><img src="https://raw.githubusercontent.com/duboviy/inspector-freimut.js/master/logo.png" height=85 alt="logo" title="logo"> inspector-freimut.js</h1>
+<h1><img src="https://raw.githubusercontent.com/duboviy/inspector-freimut.js/master/logo.png" height=65 alt="logo" title="logo"> inspector-freimut.js</h1>
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3a7bdeaac57c431ab1263fcd5f19e4a9)](https://www.codacy.com/app/dubovoy/inspector-freimut.js?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=duboviy/inspector-freimut.js&amp;utm_campaign=Badge_Grade) [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/3a7bdeaac57c431ab1263fcd5f19e4a9)](https://www.codacy.com/app/dubovoy/inspector-freimut.js?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=duboviy/inspector-freimut.js&amp;utm_campaign=Badge_Coverage) [![Code Health](https://landscape.io/github/duboviy/inspector-freimut.js/master/landscape.svg?style=flat)](https://landscape.io/github/duboviy/inspector-freimut.js/master) [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/duboviy/inspector-freimut.js/) [![PRs & Issues Welcome](https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg)](https://github.com/duboviy/inspector-freimut.js/pulls) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/duboviy/inspector-freimut.js/)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2aca58b87ba549e3aad741e798ab9f63)](https://www.codacy.com/app/dubovoy/inspector-freimut-js?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=duboviy/inspector-freimut.js&amp;utm_campaign=Badge_Grade) [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/duboviy/inspector-freimut.js/) [![PRs & Issues Welcome](https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg)](https://github.com/duboviy/inspector-freimut.js/pulls) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/duboviy/inspector-freimut.js/)
 
 ## Summary
 Utilities made to extend introspection in js
@@ -69,6 +69,11 @@ You should see following *test results* in your browser:
 
 If you have suggestions for improving the inspector-freimut.js, please [open an issue or
 pull request on GitHub](https://github.com/duboviy/inspector-freimut.js/).
+
+### She looks at you like ... like your code need to be inspected ASAP :smile:
+
+<img src="https://raw.githubusercontent.com/duboviy/inspector-freimut.js/master/logo.png">
+
 
 ## Badges
 
