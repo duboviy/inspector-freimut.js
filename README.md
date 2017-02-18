@@ -3,7 +3,7 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3a7bdeaac57c431ab1263fcd5f19e4a9)](https://www.codacy.com/app/dubovoy/inspector-freimut.js?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=duboviy/inspector-freimut.js&amp;utm_campaign=Badge_Grade) [![Codacy Badge](https://api.codacy.com/project/badge/Coverage/3a7bdeaac57c431ab1263fcd5f19e4a9)](https://www.codacy.com/app/dubovoy/inspector-freimut.js?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=duboviy/inspector-freimut.js&amp;utm_campaign=Badge_Coverage) [![Code Health](https://landscape.io/github/duboviy/inspector-freimut.js/master/landscape.svg?style=flat)](https://landscape.io/github/duboviy/inspector-freimut.js/master) [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/duboviy/inspector-freimut.js/) [![PRs & Issues Welcome](https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg)](https://github.com/duboviy/inspector-freimut.js/pulls) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/duboviy/inspector-freimut.js/)
 
 ## Summary
-Just my drafts of some utilities and simple js functions made to extend introspection in js for convenience
+Utilities made to extend introspection in js
 
 
 ## Basic usage examples
@@ -51,6 +51,14 @@ var obj = {name: '1',value: '2', some: '3'};
 $u.values(obj);
 //["1", "2", "3"]
 ```
+
+## Tests
+
+### To run tests use tests/index.html
+
+You should see following *test results* in your browser:
+<img src="https://raw.githubusercontent.com/duboviy/inspector-freimut.js/master/tests/test_results.png" alt="test_results" title="test_results">
+
 
 ## License
 
